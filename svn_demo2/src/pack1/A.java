@@ -6,15 +6,7 @@ public class A {
 		// TODO Auto-generated method stub
            System.out.println("message-1");
            System.out.println("message-2");
-           System.out.println("message-3");
-           System.out.println("message-3");
-           
-           System.out.println("message-10");
-           System.out.println("changes after check out from here");
-           System.out.println("changes dev-2");
-           System.out.println("last messahe dev2");
-	
-           System.out.println("last message-dev1");
+        
 	}
 
 }
